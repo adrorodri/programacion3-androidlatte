@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Grupo3.iml" filepath="$PROJECT_DIR$/Grupo3.iml" />
+      <module fileurl="file://C:\Users\WEIMAR\AndroidStudioProjects\programacion3-androidlatte\Grupo3.iml" filepath="C:\Users\WEIMAR\AndroidStudioProjects\programacion3-androidlatte\Grupo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\WEIMAR\AndroidStudioProjects\programacion3-androidlatte\app\app.iml" filepath="C:\Users\WEIMAR\AndroidStudioProjects\programacion3-androidlatte\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/programacion3-androidlatte.iml" filepath="$PROJECT_DIR$/.idea/programacion3-androidlatte.iml" />
     </modules>
   </component>
 </project>
